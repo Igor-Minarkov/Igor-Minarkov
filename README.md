@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Igor-Minarkov, Tech Lead
+👋 Hi, I’m @Igor-Minarkov, Tech Lead
 
